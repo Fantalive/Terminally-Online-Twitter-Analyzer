@@ -10,9 +10,6 @@
 - Thousands separator formatting
 - LocalStorage persistence via `streamlit-javascript`
 
-## Demo
-[Live App on Streamlit](https://your-app-name.streamlit.app)
-
 ## Getting Started
 
 1. Clone the repo
